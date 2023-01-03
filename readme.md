@@ -1,0 +1,2 @@
+# Few-Shot Learning with Prototypical Networks
+A PyTorch implementation of [Prototypical Networks for Few-shot Learning](https://arxiv.org/abs/1703.05175) (Snell et al. in 2017). Results and conclusion of my implementation match with the paper.
